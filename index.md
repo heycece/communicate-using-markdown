@@ -149,3 +149,8 @@ class ToDoListGUI:
 todo_list_gui = ToDoListGUI()
 todo_list_gui.run()
 ```
+## Making task list
+
+- [ ] Learning ASL
+- [ ] Graduating masters
+- [ ] Going on vacation
